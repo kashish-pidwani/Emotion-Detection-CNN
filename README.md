@@ -59,5 +59,4 @@ A CNN-based emotion detection system was successfully developed and tested. The 
 ## 👩‍💻 Author
 Kashish Pidwani
 
-## 👩‍💻 Author
-Kashish Pidwani
+
