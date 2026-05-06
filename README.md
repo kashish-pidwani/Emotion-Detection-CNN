@@ -1,5 +1,14 @@
 # 🎭 Facial Emotion Detection using CNN
 
+## Internship Details
+
+- **Company:** CodTech IT Solutions  
+- **Name:** Kashish Pidwani  
+- **Intern ID:** CTIS8144 
+- **Domain:** Artificial Intelligence  
+- **Duration:** 4 Weeks  
+
+
 ## 📌 Overview
 This project builds a Convolutional Neural Network (CNN) to classify facial emotions from images. It demonstrates an end-to-end deep learning pipeline including preprocessing, training, evaluation, and explainability using Grad-CAM.
 
