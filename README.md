@@ -5,7 +5,7 @@
 - **Company:** CodTech IT Solutions  
 - **Name:** Kashish Pidwani  
 - **Intern ID:** CTIS8144 
-- **Domain:** Artificial Intelligence  
+- **Domain:** Data Science
 - **Duration:** 4 Weeks  
 
 
